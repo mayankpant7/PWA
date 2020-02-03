@@ -1,4 +1,4 @@
-# PWA
+# Progressive Web App (PWA)
 ## Step by Step guide to create a PWA
 
 Steps Involved :
