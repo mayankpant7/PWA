@@ -2,6 +2,7 @@
 ## Step by Step guide to create a PWA
 
 Steps Involved :
+* Add your displaying content in index.html inside main tag .
 * Create your website using HTML, CSS, JavaScript.
 * Add [manifest.json](manifest.json) file and add a link to it in [index.html](index.html) .
 * Add [serviceWorker.js](serviceWorker.js) file and link it in the [app.js](app.js) file as shown in the code. 
@@ -19,3 +20,7 @@ However, it's super powerful. The service worker can intercept and handle networ
 ## Web App Manifest
 
 The web app manifest is a simple JSON file that informs the browser about your web app and how it should behave when installed on the user's mobile device or desktop. And to show the Add to Home Screen prompt, the web app manifest is required.
+
+
+
+Link to [tutorial](https://dev.to/ibrahima92/how-to-build-a-pwa-from-scratch-with-html-css-and-javascript-4bg5)
